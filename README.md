@@ -1,4 +1,4 @@
-# Lucas Kanade Tracker
+# Lucas Kanade Template and Inverse Compositional Tracker
 
 
 ### Authors
